@@ -6,7 +6,7 @@
 ;; Version: 0.1.0
 ;; Package-version: 0.1.0
 ;; Keywords: kindle, org-mode, annotation, clipping
-;; URL: http://github.com/kototama/cljsbuild-mode
+;; URL: http://github.com/kototama/kindle-mode
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
